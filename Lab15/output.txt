@@ -1,0 +1,14 @@
+--- Task 1 (task1.js) ---
+80
+
+--- Task 2 (task2.js) ---
+Marks out of range
+
+--- Task 3 (task3.js) ---
+65
+Caught: Marks out of range
+
+--- Task 4 (task4.js) ---
+Asha
+Rohan
+Meera

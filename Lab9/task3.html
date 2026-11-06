@@ -1,0 +1,30 @@
+<!--
+Name: Abhinav Srivastava
+Roll Number / Student ID: BCS2025376
+Section: E
+Lab 9 - Task 3: LocalStorage note persistence
+-->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lab 9 - Task 3</title>
+</head>
+<body>
+  <h2>Local Storage Note</h2>
+  <input type="text" id="noteBox" placeholder="Type a note...">
+  <button id="saveBtn">Save</button>
+
+  <script>
+    const noteBox = document.getElementById("noteBox");
+    const saveBtn = document.getElementById("saveBtn");
+
+    // Show saved note on page open
+    noteBox.value = localStorage.getItem("note") || "";
+
+    // Save note to localStorage on click
+    saveBtn.addEventListener("click", () => {
+      localStorage.setItem("note", noteBox.value);
+    });
+  </script>
+</body>
+</html>

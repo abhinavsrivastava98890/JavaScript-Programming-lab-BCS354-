@@ -1,0 +1,10 @@
+--- Task 1 (task1.js) ---
+inner
+outer
+
+--- Task 2 (task2.js) ---
+1
+2
+
+--- Task 3 (task3.js) ---
+Welcome to Sample College

@@ -1,0 +1,11 @@
+--- Task 1 (task1.html) ---
+Hello from the script
+
+--- Task 2 (task2.js) ---
+Sample College
+2026
+
+--- Task 3 (task3.js) ---
+string
+number
+boolean

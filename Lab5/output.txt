@@ -1,0 +1,14 @@
+--- Task 1 (task1.js) ---
+4
+72
+
+--- Task 2 (task2.js) ---
+Maths
+Science
+English
+
+--- Task 3 (task3.js) ---
+[ 72, 85, 90 ]
+
+--- Task 4 (task4.js) ---
+6

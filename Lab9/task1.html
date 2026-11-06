@@ -1,0 +1,24 @@
+<!--
+Name: Abhinav Srivastava
+Roll Number / Student ID: BCS2025376
+Section: E
+Lab 9 - Task 1: Button click changes heading text
+-->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lab 9 - Task 1</title>
+</head>
+<body>
+  <h1 id="heading">Welcome</h1>
+  <button id="btn">Change text</button>
+
+  <script>
+    const btn = document.getElementById("btn");
+    const heading = document.getElementById("heading");
+    btn.addEventListener("click", () => {
+      heading.textContent = "Button clicked";
+    });
+  </script>
+</body>
+</html>

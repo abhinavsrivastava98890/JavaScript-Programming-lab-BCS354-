@@ -1,0 +1,12 @@
+--- Task 1 (task1.js) ---
+Grade B
+
+--- Task 2 (task2.js) ---
+1
+2
+3
+4
+5
+
+--- Task 3 (task3.js) ---
+21

@@ -1,0 +1,11 @@
+--- Task 1 (task1.js) ---
+Rohan
+81
+
+--- Task 2 (task2.js) ---
+Maths
+Science
+
+--- Task 3 (task3.js) ---
+Rohan
+12

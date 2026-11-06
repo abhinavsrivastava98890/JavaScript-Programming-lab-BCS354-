@@ -1,0 +1,8 @@
+--- Task 1 (task1.js) ---
+Hello, Asha
+
+--- Task 2 (task2.js) ---
+36
+
+--- Task 3 (task3.js) ---
+118

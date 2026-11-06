@@ -1,0 +1,8 @@
+--- Task 1 (task1.js) ---
+{"name":"Rohan","marks":[70,80]}
+
+--- Task 2 (task2.js) ---
+Pune
+
+--- Task 3 (task3.js) ---
+Invalid JSON

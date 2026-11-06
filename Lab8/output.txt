@@ -1,0 +1,9 @@
+--- Task 1 (task1.js) ---
+Hi, I am Anita
+
+--- Task 2 (task2.js) ---
+false
+true
+
+--- Task 3 (task3.js) ---
+Car starts with 150 HP

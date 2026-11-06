@@ -1,0 +1,12 @@
+--- Task 1 (task1.html) ---
+Heading text changes to: Button clicked
+
+--- Task 2 (task2.js) ---
+[]
+[ 'Name is required' ]
+
+--- Task 3 (task3.html) ---
+Note saved in localStorage under key 'note'
+
+--- Task 4 (task4.html) ---
+Selecting 5 shows 'Correct', otherwise shows 'Try again'

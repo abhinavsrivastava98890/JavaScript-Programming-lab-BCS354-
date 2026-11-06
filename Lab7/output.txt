@@ -1,0 +1,9 @@
+--- Task 1 (task1.js) ---
+Asha
+88
+
+--- Task 2 (task2.js) ---
+Algorithms has 320 pages
+
+--- Task 3 (task3.js) ---
+Pass
